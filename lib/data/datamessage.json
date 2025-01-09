@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "sender": "John Doe",
+        "message": "Hallo apa kabar?",
+        "timestamp": "2023-01-01 10:00:00"
+    },
+    {
+        "id": 2,
+        "sender": "Jane Smith",
+        "message": "Kapan jadwal mueeting?",
+        "timestamp": "2023-01-01 11:00:00"
+    }
+]
