@@ -2,17 +2,19 @@ NAMA    : SAMUEL RIVALDO SARAGIH
 NIM     : 362358302156
 KELAS   : 2B TRPL
 
-Welcome Screen
-![gambar](image.png)
+Tampilann awal
+![alt text](image-6.png)
+
 
 Sign up
-![gambar](image-1.png)
+![gambar](image-7.png)
 
 Sign in
-![gambar](image-2.png)
+![gambar](image-5.png)
 
-Dashboard
-![gambar](image-3.png)
+
+Home
+!![gambar](image-8.png)
 
 Profile
 ![gambar](image-4.png)
