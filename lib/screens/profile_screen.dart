@@ -15,11 +15,11 @@ class ProfileScreen extends StatelessWidget {
             ),
             SizedBox(height: 10),
             Text(
-              "Your Name",
+              "Samuel",
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),
             Text(
-              "youremail@example.com",
+              "samuel@gmail.com",
               style: TextStyle(color: Colors.grey),
             ),
             SizedBox(height: 20),

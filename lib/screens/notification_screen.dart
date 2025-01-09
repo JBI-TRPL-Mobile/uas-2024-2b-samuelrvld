@@ -13,7 +13,7 @@ class NotificationScreen extends StatelessWidget {
             title: Text("Notification $index"),
             subtitle: Text("This is the detail of notification $index."),
             onTap: () {
-              // Implementasikan jika ingin ada aksi saat notifikasi diklik
+              
             },
           );
         },
